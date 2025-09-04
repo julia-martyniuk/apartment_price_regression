@@ -42,4 +42,4 @@ jupyter notebook appartments_regression.ipynb
 
 # Author
 
-Project completed as part of the "Machine Learning: Classification Methods" course at the University of Warsaw.
+Project completed by Yuliya Martyniuk as part of the "Machine Learning: Classification Methods" course at the University of Warsaw.
